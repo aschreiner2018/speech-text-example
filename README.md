@@ -8,5 +8,5 @@ Projeto de testes criado com o objetivo de testar a bilbioteca Expo Speech no Re
 yarn start
 
 ### screenshots
-<img src="screenshot01.png" width="40%" height="40%">
+<img src="screenshot01.png" width="100%" height="100%">
 
